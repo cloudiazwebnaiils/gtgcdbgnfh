@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/edited-imprex/static/css/main.b3ff8ad7.css",
+    "main.js": "/edited-imprex/static/js/main.cf4b6b04.js",
+    "static/js/787.a8b3a0b2.chunk.js": "/edited-imprex/static/js/787.a8b3a0b2.chunk.js",
+    "static/media/hobspot-loader.webp": "/edited-imprex/static/media/hobspot-loader.b653093eceea45b8803d.webp",
+    "index.html": "/edited-imprex/index.html",
+    "main.b3ff8ad7.css.map": "/edited-imprex/static/css/main.b3ff8ad7.css.map",
+    "main.cf4b6b04.js.map": "/edited-imprex/static/js/main.cf4b6b04.js.map",
+    "787.a8b3a0b2.chunk.js.map": "/edited-imprex/static/js/787.a8b3a0b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3ff8ad7.css",
+    "static/js/main.cf4b6b04.js"
+  ]
+}
